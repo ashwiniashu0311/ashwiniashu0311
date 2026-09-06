@@ -21,7 +21,7 @@
 
 ### 🧰 Skills & Tools
 
-**Languages:** Python, PHP  
+**Languages:** Python
 **Data Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
 **Databases:** SQL  
 **Frameworks/Libraries:** Django, Tkinter  
