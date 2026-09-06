@@ -24,7 +24,7 @@
 **Languages:** Python
 **Data Tools:** Pandas, NumPy, Matplotlib, Scikit-learn  
 **Databases:** SQL  
-**Frameworks/Libraries:** Django, Tkinter  
+**Frameworks/Libraries:** Django
 **Other:** Microsoft Excel
 
 ---
